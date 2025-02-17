@@ -1,6 +1,6 @@
 # MFMetalCalculator
 
-![MFMetalCalculator logo](Icon_128.png)
+![MFMetalCalculator Icon](Icon.png)
 
 A helper based on the **Metal** framework
 
